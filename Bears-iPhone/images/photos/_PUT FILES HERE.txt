@@ -1,0 +1,15 @@
+Put these files in this folder ("images/photos").
+The name must match EXACTLY - same letters, lowercase, same ending (.jpg / .png / .mp3).
+Best size: any photo; album thumbnails look best square
+
+[ ]  recents_cover.jpg                  "Recents" album thumbnail
+[ ]  works_cover.jpg                    "Works" album thumbnail
+[ ]  japan_01.jpg                       2019's Japan trip photo 1 (also the album cover)
+[ ]  japan_02.jpg                       Japan photo 2
+[ ]  japan_03.jpg                       Japan photo 3
+[ ]  japan_04.jpg                       Japan photo 4
+[ ]  japan_05.jpg                       Japan photo 5
+[ ]  japan_06.jpg                       Japan photo 6
+[ ]  japan_07.jpg                       Japan photo 7
+[ ]  japan_08.jpg                       Japan photo 8
+[ ]  japan_09.jpg                       Japan photo 9

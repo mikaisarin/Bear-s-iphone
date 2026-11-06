@@ -1,0 +1,17 @@
+Put these files in this folder ("images/spotify").
+The name must match EXACTLY - same letters, lowercase, same ending (.jpg / .png / .mp3).
+Best size: square, about 640 x 640 pixels
+
+[ ]  profile.jpg                        Spotify profile picture
+[ ]  playlist_30_days_of_us.jpg         "30 days of us" playlist cover
+[ ]  song_01.jpg                        song cover 01 — กลัวว่าฉันจะไม่เสียใจ (Fear) · PURPEECH
+[ ]  song_02.jpg                        song cover 02 — อาจเป็นเพราะฉันเอง (me.) · PURPEECH
+[ ]  song_03.jpg                        song cover 03 — ไม่ได้ลืมแค่ไม่ได้เจอ (Flashback) · guncharlie
+[ ]  song_04.jpg                        song cover 04 — สิ่งที่เธอทิ้งง่ายที่สุด · guncharlie, JAO YENTED
+[ ]  song_05.jpg                        song cover 05 — อยู่ได้แล้ว · Lipta, Mirrr
+[ ]  song_06.jpg                        song cover 06 — ถ้าเกิด (If Only) · LYKN
+[ ]  song_07.jpg                        song cover 07 — Living Death · PUN
+[ ]  song_08.jpg                        song cover 08 — ไม่ให้ไป · Three Man Down
+[ ]  song_09.jpg                        song cover 09 — ยิ่งคบยิ่งไม่รัก (Why?) · DICE
+[ ]  song_10.jpg                        song cover 10 — จำได้ว่าลืม (Flashback) · William Jakrapatr
+[ ]  song_11.jpg                        song cover 11 — ส่วนต่าง (do it without me) · BOWKYLION

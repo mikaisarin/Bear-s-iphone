@@ -1,0 +1,9 @@
+Put these files in this folder ("images/line").
+The name must match EXACTLY - same letters, lowercase, same ending (.jpg / .png / .mp3).
+Best size: square, about 400 x 400 pixels
+
+[ ]  cho.jpg                            LINE "cho"
+[ ]  kongkwan.jpg                       LINE "น้องของขวัญ" / Kongkwan (also used for the call)
+[ ]  nj_inter.jpg                       LINE group "NJ Inter"
+[ ]  mom.jpg                            LINE "mom"
+[ ]  dad.jpg                            LINE "dad"

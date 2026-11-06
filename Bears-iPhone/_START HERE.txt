@@ -1,0 +1,13 @@
+BEAR'S iPHONE - HOW TO ADD YOUR PICTURES
+
+1. Put these 2 files right here, next to index.html:
+   [ ] wallpaper.jpg      the wallpaper (home + lock screen), tall phone-shaped picture
+   [ ] bear_selfie.mp4    Bear's selfie video for the Camera app
+
+2. Open each folder. Inside is a file called "_PUT FILES HERE.txt"
+   that lists the exact file names that folder needs.
+
+3. Double-click index.html to open it in Chrome. Passcode: 3017
+   After adding new files, press F5 (Mac: Cmd + R) to refresh.
+
+Anything you haven't added yet shows a soft blue box. Nothing breaks.

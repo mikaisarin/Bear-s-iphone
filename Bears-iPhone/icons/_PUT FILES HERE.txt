@@ -1,0 +1,21 @@
+Put these files in this folder ("icons").
+The name must match EXACTLY - same letters, lowercase, same ending (.jpg / .png / .mp3).
+Best size: square PNG, about 180 x 180 pixels
+
+[ ]  photos.png                         Photos icon
+[ ]  camera.png                         Camera icon
+[ ]  clock.png                          Clock icon
+[ ]  instagram.png                      Instagram icon
+[ ]  youtube.png                        YouTube icon
+[ ]  tripcom.png                        Trip.com icon
+[ ]  notes.png                          Notes icon
+[ ]  weather.png                        Weather icon
+[ ]  maps.png                           Maps icon
+[ ]  mail.png                           Mail icon
+[ ]  settings.png                       Settings icon
+[ ]  grab.png                           Grab icon
+[ ]  x.png                              X icon
+[ ]  phone.png                          Phone icon
+[ ]  line.png                           LINE icon
+[ ]  safari.png                         Safari icon
+[ ]  spotify.png                        Spotify icon

@@ -1,0 +1,28 @@
+Put these files in this folder ("images/instagram").
+The name must match EXACTLY - same letters, lowercase, same ending (.jpg / .png / .mp3).
+Best size: avatars & highlight cover: square · posts: tall 4:5 (1080 x 1350) · stories: phone-shaped 9:16 (1080 x 1920)
+
+[ ]  avatar_bigbigbear.jpg              bigbigbear profile picture
+[ ]  avatar_cchooo.jpg                  c.chooo profile picture
+[ ]  avatar_justkk.jpg                  just.kk profile picture
+[ ]  avatar_itsjaojunn.jpg              itsjaojunn profile picture
+[ ]  avatar_flowintheairr.jpg           flowintheairr profile picture
+[ ]  avatar_ball2p.jpg                  ball_2p profile picture
+[ ]  cchooo_01_new_chapter.jpg          "New chapter, new beginning"
+[ ]  collab_02_heart.jpg                collab c.chooo × bigbigbear "<3"
+[ ]  cchooo_03_snap_the_pics.jpg        "snap the pics"
+[ ]  cchooo_04_gallery.jpg              "gallery"
+[ ]  cchooo_05_latte.jpg                "for k. @latte.tnc"
+[ ]  cchooo_06_chilling.jpg             "chilling"
+[ ]  cchooo_07_kkim.jpg                 "for k. @kkim_pst"
+[ ]  bear_sky_and_sea.jpg               "sky and sea"
+[ ]  bear_post3.jpg                     bigbigbear 3rd post (no caption)
+[ ]  story_cchooo.jpg                   c.chooo story
+[ ]  story_justkk.jpg                   just.kk story
+[ ]  story_itsjaojunn.jpg               itsjaojunn story
+[ ]  story_flowintheairr.jpg            flowintheairr story
+[ ]  story_ball2p.jpg                   ball_2p story
+[ ]  highlight_cho_cover.jpg            highlight "Cho" cover
+[ ]  highlight_cho_1.jpg                highlight "Cho" story 1
+[ ]  highlight_cho_2.jpg                highlight "Cho" story 2
+[ ]  highlight_cho_3.jpg                highlight "Cho" story 3

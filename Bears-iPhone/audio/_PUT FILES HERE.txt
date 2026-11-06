@@ -1,0 +1,4 @@
+Put these files in this folder ("audio").
+The name must match EXACTLY - same letters, lowercase, same ending (.jpg / .png / .mp3).
+
+[ ]  me_purpeech.mp3                    the song อาจเป็นเพราะฉันเอง (me.) - PURPEECH (plays in Spotify)
